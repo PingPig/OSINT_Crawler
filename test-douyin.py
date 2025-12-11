@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 # ==========================================
 
 CONFIG = {
-    "keyword": "哈尔滨电气集团",        
+    "keyword": "测试目标",        
     "target_count": 20,          
     "save_file_name": "users_cleaned.json",
     "headless_mode": True 
